@@ -26,7 +26,7 @@ You shouldn't care about styling your notes, they are meant to be a raw dump of 
 
 You can use whatever format you want to store and write your notes. 
 
-It is important to understand that your notes are primarily meant for you. You are totally allowed to write stupid stuff in your notes. **No other developer should criticize/judge/comment what is inside .notes and no coding style apply to .notes.**. And remember: **What happens in .notes stays in .notes!**
+It is important to understand that your notes are primarily meant for you. You are totally allowed to write stupid stuff in your notes. **No other developer should criticize/judge/comment what is inside .notes and no coding style apply to .notes.** So remember this: **What happens in .notes stays in .notes!**
 
 That said, if someone else has to work on your code, your notes might be of great help for them too.
 
