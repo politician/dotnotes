@@ -3,8 +3,9 @@
 Finally, you can commit the uncommitable 😱
 
 ## Why?
-The life of a programmer is full of **interruptions**: You have to jump from urgent projects to even more urgent projects and your side projects had 3 weekends of commits over the last 4 years.
-When you come back to your code, wether it's a work project or a side project, it takes you 1/2 a day to even find out where you left it and another 1/2 a day to understand where you were going with that logic of yours. If this isn't your code, double those numbers.
+Our life as (programmers|developers|software engineers|you name it) are full of **interruptions**: We have to jump from urgent projects to even more urgent projects, our side projects had few commits spread over many years.
+
+When you come back to your code, wether it's a work project or a side project, it takes 1/2 a day to even find out where you left it and another 1/2 a day to understand where you were going with that logic of yours. If this isn't your code, double those numbers.
 
 ## Solutions
 - Try to immerse yourself in the logic you or someone else had at the time
